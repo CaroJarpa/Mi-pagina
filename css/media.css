@@ -1,0 +1,24 @@
+@media (min-width: 300px) and (max-width: 700px){
+	.imagen{
+		width: 100%;
+	}
+
+	.primero{
+		height: 2em;
+	}
+
+	#encabezado{
+		height: 2em;
+	}
+
+	.col-4{
+		display: none;
+	}
+
+	.descipcion{
+		padding-left: 1em;
+		font-size: 0.5em;
+	}
+
+
+}
